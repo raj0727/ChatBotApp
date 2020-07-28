@@ -1,13 +1,9 @@
-public class HelloWorld {
-
-    // method main(): ALWAYS the APPLICATION entry point
-    public static void main (String[] args) {
-	System.out.println ("Hello World!");
-    }
-}public class HelloWorld {
+// This Program will print "Hello World" on the Screen 
+public class HomePage{
 
     // method main(): ALWAYS the APPLICATION entry point
     public static void main (String[] args) {
 	System.out.println ("Hello World!");
     }
 }
+
