@@ -1,10 +1,13 @@
-// This Program will print "Hello World" on the Screen 
-public class HomePage{
+public class HelloWorld {
 
     // method main(): ALWAYS the APPLICATION entry point
     public static void main (String[] args) {
 	System.out.println ("Hello World!");
-   System.out.println (" Welcome to Git "); 
-}
-}
+    }
+}public class HelloWorld {
 
+    // method main(): ALWAYS the APPLICATION entry point
+    public static void main (String[] args) {
+	System.out.println ("Hello World!");
+    }
+}
